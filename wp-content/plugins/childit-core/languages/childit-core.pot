@@ -1,0 +1,2114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bebio Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-23 08:47+0600\n"
+"PO-Revision-Date: 2019-03-05 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../childit-addons/childit-addons.php:108
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../childit-addons/childit-addons.php:108
+#: ../childit-addons/childit-addons.php:129
+#: ../childit-addons/childit-addons.php:150
+msgid "Elementor ChildIt"
+msgstr ""
+
+#: ../childit-addons/childit-addons.php:108
+#: ../childit-addons/childit-addons.php:129
+msgid "Elementor"
+msgstr ""
+
+#: ../childit-addons/childit-addons.php:129
+#: ../childit-addons/childit-addons.php:150
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../childit-addons/childit-addons.php:150
+msgid "PHP"
+msgstr ""
+
+#: ../childit-addons/functions.php:7
+msgid "ChildIt"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:21
+msgid "About 2"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:37
+#: ../childit-addons/widgets/about-us-2.php:43
+#: ../childit-addons/widgets/about-us-3.php:43
+#: ../childit-addons/widgets/about-us-price.php:37
+#: ../childit-addons/widgets/about-us-price.php:43
+#: ../childit-addons/widgets/about-us.php:37
+#: ../childit-addons/widgets/about-us.php:43
+#: ../childit-addons/widgets/centre-information.php:134
+#: ../childit-addons/widgets/centre-information.php:203
+#: ../childit-addons/widgets/count.php:39
+#: ../childit-addons/widgets/foods-2.php:42
+#: ../childit-addons/widgets/foods-2.php:90
+#: ../childit-addons/widgets/foods-2.php:130
+#: ../childit-addons/widgets/foods-2.php:135
+#: ../childit-addons/widgets/foods.php:42
+#: ../childit-addons/widgets/foods.php:90
+#: ../childit-addons/widgets/foods.php:129
+#: ../childit-addons/widgets/foods.php:135
+#: ../childit-addons/widgets/learning.php:110
+#: ../childit-addons/widgets/parent-info.php:67
+#: ../childit-addons/widgets/parent-info.php:155
+#: ../childit-addons/widgets/parent-resources.php:57
+#: ../childit-addons/widgets/pricing-packages.php:55
+#: ../childit-addons/widgets/pricing-packages.php:111
+#: ../childit-addons/widgets/video-section.php:109
+#: ../childit-addons/widgets/video-section.php:115
+#: ../childit-addons/widgets/vision-mission.php:54
+#: ../childit-addons/widgets/vision-mission.php:91
+msgid "Image"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:56
+#: ../childit-addons/widgets/about-us-price.php:56
+#: ../childit-addons/widgets/about-us.php:56
+#: ../childit-addons/widgets/foods-2.php:148
+#: ../childit-addons/widgets/foods.php:148
+#: ../childit-addons/widgets/video-section.php:128
+msgid "Select Size"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:60
+#: ../childit-addons/widgets/about-us-price.php:60
+#: ../childit-addons/widgets/about-us.php:60
+#: ../childit-addons/widgets/foods-2.php:152
+#: ../childit-addons/widgets/foods.php:152
+#: ../childit-addons/widgets/page-gallery-full.php:45
+#: ../childit-addons/widgets/page-gallery.php:45
+#: ../childit-addons/widgets/video-section.php:132
+msgid "Full"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:61
+#: ../childit-addons/widgets/about-us-price.php:61
+#: ../childit-addons/widgets/about-us.php:61
+#: ../childit-addons/widgets/foods-2.php:153
+#: ../childit-addons/widgets/foods.php:153
+#: ../childit-addons/widgets/video-section.php:133
+msgid "Custom"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:68
+#: ../childit-addons/widgets/about-us-price.php:68
+#: ../childit-addons/widgets/about-us.php:68
+#: ../childit-addons/widgets/foods-2.php:160
+#: ../childit-addons/widgets/foods.php:160
+#: ../childit-addons/widgets/video-section.php:140
+msgid "Width"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:78
+#: ../childit-addons/widgets/about-us-price.php:78
+#: ../childit-addons/widgets/about-us.php:78
+#: ../childit-addons/widgets/foods-2.php:170
+#: ../childit-addons/widgets/foods.php:170
+#: ../childit-addons/widgets/video-section.php:150
+msgid "Height"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:88
+msgid "Show Vedio Button"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:90
+#: ../childit-addons/widgets/main-slider.php:126
+msgid "Show"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:91
+#: ../childit-addons/widgets/main-slider.php:127
+msgid "Hide"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:99
+#: ../childit-addons/widgets/about-us-price.php:131
+#: ../childit-addons/widgets/about-us.php:130
+#: ../childit-addons/widgets/learning.php:89
+#: ../childit-addons/widgets/video-section.php:95
+msgid "Action Button"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:113
+#: ../childit-addons/widgets/about-us-2.php:137
+#: ../childit-addons/widgets/about-us-3.php:36
+#: ../childit-addons/widgets/about-us-3.php:74
+#: ../childit-addons/widgets/about-us-price.php:90
+#: ../childit-addons/widgets/about-us-price.php:114
+#: ../childit-addons/widgets/about-us.php:90
+#: ../childit-addons/widgets/about-us.php:114
+#: ../childit-addons/widgets/advantage-2.php:58
+#: ../childit-addons/widgets/advantage-2.php:76
+#: ../childit-addons/widgets/advantage.php:69
+#: ../childit-addons/widgets/centre-information.php:96
+#: ../childit-addons/widgets/centre-information.php:155
+#: ../childit-addons/widgets/centre-information.php:229
+#: ../childit-addons/widgets/count.php:51
+#: ../childit-addons/widgets/foods-2.php:57
+#: ../childit-addons/widgets/foods-2.php:81
+#: ../childit-addons/widgets/foods.php:57
+#: ../childit-addons/widgets/foods.php:81
+#: ../childit-addons/widgets/guidance-section.php:34
+#: ../childit-addons/widgets/learning.php:73
+#: ../childit-addons/widgets/main-slider.php:107
+#: ../childit-addons/widgets/page-gallery-full.php:70
+#: ../childit-addons/widgets/page-gallery.php:70
+#: ../childit-addons/widgets/parent-info.php:34
+#: ../childit-addons/widgets/parent-info.php:58
+#: ../childit-addons/widgets/parent-info.php:86
+#: ../childit-addons/widgets/parent-info.php:146
+#: ../childit-addons/widgets/parent-resources.php:34
+#: ../childit-addons/widgets/parent-resources.php:48
+#: ../childit-addons/widgets/pricing-packages.php:67
+#: ../childit-addons/widgets/pricing-packages.php:102
+#: ../childit-addons/widgets/pricing-tables.php:56
+#: ../childit-addons/widgets/programs-page.php:49
+#: ../childit-addons/widgets/programs-page.php:72
+#: ../childit-addons/widgets/programs-page.php:143
+#: ../childit-addons/widgets/programs.php:71
+#: ../childit-addons/widgets/programs.php:96
+#: ../childit-addons/widgets/staffs.php:62
+#: ../childit-addons/widgets/testimonials.php:34
+#: ../childit-addons/widgets/testimonials.php:58
+#: ../childit-addons/widgets/video-section.php:57
+#: ../childit-addons/widgets/video-section.php:79
+#: ../childit-addons/widgets/vision-mission.php:66
+#: ../childit-addons/widgets/vision-mission.php:109
+msgid "Content"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:119
+#: ../childit-addons/widgets/about-us-3.php:56
+#: ../childit-addons/widgets/about-us-price.php:96
+#: ../childit-addons/widgets/about-us.php:96
+#: ../childit-addons/widgets/advantage-2.php:39
+#: ../childit-addons/widgets/advantage.php:40
+#: ../childit-addons/widgets/blogs.php:55
+#: ../childit-addons/widgets/centre-information.php:55
+#: ../childit-addons/widgets/centre-information.php:292
+#: ../childit-addons/widgets/contacts.php:64
+#: ../childit-addons/widgets/faq.php:39
+#: ../childit-addons/widgets/foods-2.php:63
+#: ../childit-addons/widgets/foods.php:63
+#: ../childit-addons/widgets/gallery.php:52
+#: ../childit-addons/widgets/guidance-section.php:40
+#: ../childit-addons/widgets/learning.php:55
+#: ../childit-addons/widgets/main-slider.php:245
+#: ../childit-addons/widgets/page-gallery-full.php:52
+#: ../childit-addons/widgets/page-gallery.php:52
+#: ../childit-addons/widgets/parent-info.php:40
+#: ../childit-addons/widgets/parent-info.php:137
+#: ../childit-addons/widgets/parent-resources.php:40
+#: ../childit-addons/widgets/pricing-packages.php:83
+#: ../childit-addons/widgets/pricing-tables.php:39
+#: ../childit-addons/widgets/programs-page.php:55
+#: ../childit-addons/widgets/programs-page.php:127
+#: ../childit-addons/widgets/programs.php:78
+#: ../childit-addons/widgets/staffs.php:44
+#: ../childit-addons/widgets/testimonials.php:40
+#: ../childit-addons/widgets/video-section.php:63
+#: ../childit-addons/widgets/vision-mission.php:71
+msgid "Title 1"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:122
+msgid "Igniting the spark of genius in every child"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:128
+#: ../childit-addons/widgets/about-us-3.php:65
+#: ../childit-addons/widgets/about-us-price.php:105
+#: ../childit-addons/widgets/about-us.php:105
+#: ../childit-addons/widgets/advantage-2.php:49
+#: ../childit-addons/widgets/advantage.php:49
+#: ../childit-addons/widgets/blogs.php:64
+#: ../childit-addons/widgets/centre-information.php:64
+#: ../childit-addons/widgets/contacts.php:73
+#: ../childit-addons/widgets/faq.php:48
+#: ../childit-addons/widgets/foods-2.php:72
+#: ../childit-addons/widgets/foods.php:72
+#: ../childit-addons/widgets/gallery.php:61
+#: ../childit-addons/widgets/guidance-section.php:49
+#: ../childit-addons/widgets/learning.php:64
+#: ../childit-addons/widgets/main-slider.php:256
+#: ../childit-addons/widgets/page-gallery-full.php:61
+#: ../childit-addons/widgets/page-gallery.php:61
+#: ../childit-addons/widgets/parent-info.php:49
+#: ../childit-addons/widgets/pricing-packages.php:92
+#: ../childit-addons/widgets/pricing-tables.php:48
+#: ../childit-addons/widgets/programs-page.php:64
+#: ../childit-addons/widgets/programs-page.php:135
+#: ../childit-addons/widgets/programs.php:87
+#: ../childit-addons/widgets/staffs.php:53
+#: ../childit-addons/widgets/testimonials.php:49
+#: ../childit-addons/widgets/video-section.php:71
+#: ../childit-addons/widgets/vision-mission.php:80
+msgid "Title 2"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:131
+msgid "We Work to Understand Your <span>Kids Needs</span>"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-2.php:139
+#: ../childit-addons/widgets/video-section.php:81
+msgid ""
+"We provide a warm and encouraging atmosphere that enhances self-concept, "
+"instills basic moral values, encourages social interaction, and enriches "
+"awareness of the natural and cultural world. We’re a warm and loving "
+"community of preschoolers, teachers, and parents who inspire imagination, "
+"creativity, and play for every learner."
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-3.php:21
+msgid "About 3"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-3.php:59
+msgid "Professional and graduated"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-3.php:68
+msgid "Our Staff are Guided by the <span>Principles of</span>"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-price.php:21
+msgid "About Price"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-price.php:99
+msgid "Membership loyalty program"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-price.php:108
+msgid "How to get Membership <span>Discounts</span>"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-price.php:123
+#: ../childit-addons/widgets/about-us.php:122
+#: ../childit-addons/widgets/learning.php:81
+#: ../childit-addons/widgets/pricing-packages.php:143
+#: ../childit-addons/widgets/programs.php:143
+#: ../childit-addons/widgets/video-section.php:87
+msgid "Button Text"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us-price.php:125
+#: ../childit-addons/widgets/about-us.php:124
+#: ../childit-addons/widgets/learning.php:83
+#: ../childit-addons/widgets/video-section.php:89
+msgid "read more"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us.php:21
+msgid "About Us"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us.php:99
+msgid "Where work and play come together"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us.php:108
+msgid "<span>The Center</span> for Early Childhood Education"
+msgstr ""
+
+#: ../childit-addons/widgets/about-us.php:116
+msgid ""
+"We provide an innovative, nurturing and stimulating environment where "
+"children develop independence, confidence and a positive sense of self and "
+"the world around them. Our curriculum is designed to involve children in "
+"experiences that enhance language, literacy, music, movement, art and "
+"socialization. Through play, all areas of development are fostered."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:18
+msgid "Advantage 2"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:33
+#: ../childit-addons/widgets/advantage.php:34
+msgid "Section"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:42
+msgid "Prepare your child for school readiness"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:43
+#: ../childit-addons/widgets/advantage-2.php:71
+#: ../childit-addons/widgets/advantage-2.php:78
+#: ../childit-addons/widgets/advantage.php:44
+#: ../childit-addons/widgets/advantage.php:53
+#: ../childit-addons/widgets/advantage.php:64
+#: ../childit-addons/widgets/advantage.php:71
+#: ../childit-addons/widgets/centre-information.php:91
+#: ../childit-addons/widgets/centre-information.php:98
+#: ../childit-addons/widgets/centre-information.php:157
+#: ../childit-addons/widgets/centre-information.php:195
+#: ../childit-addons/widgets/centre-information.php:215
+#: ../childit-addons/widgets/centre-information.php:223
+#: ../childit-addons/widgets/faq.php:43 ../childit-addons/widgets/faq.php:52
+#: ../childit-addons/widgets/faq.php:71 ../childit-addons/widgets/faq.php:78
+#: ../childit-addons/widgets/foods-2.php:102
+#: ../childit-addons/widgets/foods.php:102
+#: ../childit-addons/widgets/learning.php:123
+#: ../childit-addons/widgets/learning.php:130
+#: ../childit-addons/widgets/main-slider.php:149
+#: ../childit-addons/widgets/main-slider.php:158
+#: ../childit-addons/widgets/parent-info.php:80
+#: ../childit-addons/widgets/parent-info.php:88
+#: ../childit-addons/widgets/parent-info.php:168
+#: ../childit-addons/widgets/parent-info.php:176
+#: ../childit-addons/widgets/parent-resources.php:69
+#: ../childit-addons/widgets/parent-resources.php:77
+#: ../childit-addons/widgets/pricing-packages.php:87
+#: ../childit-addons/widgets/pricing-packages.php:96
+#: ../childit-addons/widgets/pricing-packages.php:123
+#: ../childit-addons/widgets/vision-mission.php:75
+#: ../childit-addons/widgets/vision-mission.php:84
+#: ../childit-addons/widgets/vision-mission.php:104
+#: ../childit-addons/widgets/vision-mission.php:111
+msgid "Type your title here"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:52
+msgid "Feel The Difference"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:60
+msgid ""
+"What gives our schools the quality you feel the moment you enter are the "
+"“pillars” of belief that support them. There are six core beliefs on which "
+"everything centers at our schools."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:68
+#: ../childit-addons/widgets/advantage.php:61
+#: ../childit-addons/widgets/blogs.php:88
+#: ../childit-addons/widgets/centre-information.php:49
+#: ../childit-addons/widgets/centre-information.php:81
+#: ../childit-addons/widgets/centre-information.php:314
+#: ../childit-addons/widgets/faq.php:33 ../childit-addons/widgets/faq.php:109
+#: ../childit-addons/widgets/foods-2.php:100
+#: ../childit-addons/widgets/foods.php:100
+#: ../childit-addons/widgets/gallery.php:84
+#: ../childit-addons/widgets/page-gallery-full.php:93
+#: ../childit-addons/widgets/page-gallery.php:93
+#: ../childit-addons/widgets/parent-info.php:77
+#: ../childit-addons/widgets/parent-info.php:165
+#: ../childit-addons/widgets/parent-resources.php:67
+#: ../childit-addons/widgets/pricing-packages.php:121
+#: ../childit-addons/widgets/programs-page.php:96
+#: ../childit-addons/widgets/programs.php:119
+#: ../childit-addons/widgets/staffs.php:85
+#: ../childit-addons/widgets/testimonials.php:80
+#: ../childit-addons/widgets/testimonials.php:111
+#: ../childit-addons/widgets/vision-mission.php:101
+msgid "Title"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:84
+#: ../childit-addons/widgets/advantage.php:77
+#: ../childit-addons/widgets/centre-information.php:104
+#: ../childit-addons/widgets/centre-information.php:163
+#: ../childit-addons/widgets/centre-information.php:260
+#: ../childit-addons/widgets/count.php:73 ../childit-addons/widgets/faq.php:84
+#: ../childit-addons/widgets/foods-2.php:108
+#: ../childit-addons/widgets/foods.php:108
+#: ../childit-addons/widgets/learning.php:136
+#: ../childit-addons/widgets/parent-info.php:94
+#: ../childit-addons/widgets/parent-info.php:182
+#: ../childit-addons/widgets/parent-resources.php:83
+#: ../childit-addons/widgets/pricing-packages.php:163
+#: ../childit-addons/widgets/vision-mission.php:117
+msgid "Item List"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:89
+msgid "Experiential Learning"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:90
+msgid ""
+"We help children connect with their surroundings in new ways, so they "
+"discover what is meaningful to them in the moment and in the future."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:93
+msgid "Community"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:94
+msgid ""
+"A child’s educational success in large part depends on families, educators, "
+"peers and relevant members of the community."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:97
+msgid "Collaboration"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:98
+msgid ""
+"Sharing new experiences and solving problems with others leads to a greater "
+"sense of connectedness – as well as meaningful learning experiences."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:101
+msgid "Proven Models"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage-2.php:102
+msgid ""
+"Several important learning models have been developed by educators around "
+"the world. The human connection must be a key component of learning."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:19
+msgid "Advantage"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:43
+#: ../childit-addons/widgets/faq.php:42
+msgid "Read on to understand our differene"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:52
+#: ../childit-addons/widgets/faq.php:51
+msgid "Why Choose ChildiT"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:82
+msgid "Home-like Environment"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:83
+msgid ""
+"Children are comfortable and confident in their home, feeling safe and "
+"secure to explore and learn."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:86
+msgid "Loving Language"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:87
+#, php-format
+msgid ""
+"90% success rate of children reading before they go to school for children "
+"attending more than 12 months."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:90
+msgid "30 Day Moneyback Guarantee"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:94
+msgid "Culture of Honour"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:95
+msgid ""
+"We aim to help all people that come into contact with ChildiT to feel "
+"Significant, Appreciated and Understood."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:98
+msgid "Orientation Process"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:99
+msgid ""
+"Makes the process of you and your child settling into care with ChildiT that "
+"much smoother."
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:102
+msgid "Quality Educators"
+msgstr ""
+
+#: ../childit-addons/widgets/advantage.php:103
+msgid ""
+"Trusted, highly trained and hand-picked Educators. We believe that educators "
+"play a huge role in quality child care."
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:19
+msgid "Blog"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:49
+msgid "Blogs"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:58
+msgid "What\\'s new"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:67
+msgid "Latest News"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:73
+#: ../childit-addons/widgets/programs-page.php:81
+#: ../childit-addons/widgets/programs.php:104
+#: ../childit-addons/widgets/staffs.php:70
+msgid "Number of Post"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:81
+#: ../childit-addons/widgets/centre-information.php:307
+#: ../childit-addons/widgets/gallery.php:77
+#: ../childit-addons/widgets/page-gallery-full.php:86
+#: ../childit-addons/widgets/page-gallery.php:86
+#: ../childit-addons/widgets/programs-page.php:89
+#: ../childit-addons/widgets/programs.php:112
+#: ../childit-addons/widgets/staffs.php:78
+#: ../childit-addons/widgets/testimonials.php:73
+msgid "Order By"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:85
+#: ../childit-addons/widgets/centre-information.php:311
+#: ../childit-addons/widgets/gallery.php:81
+#: ../childit-addons/widgets/page-gallery-full.php:90
+#: ../childit-addons/widgets/page-gallery.php:90
+#: ../childit-addons/widgets/programs-page.php:93
+#: ../childit-addons/widgets/programs.php:116
+#: ../childit-addons/widgets/staffs.php:82
+#: ../childit-addons/widgets/testimonials.php:77
+msgid "Date"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:86
+#: ../childit-addons/widgets/centre-information.php:312
+#: ../childit-addons/widgets/gallery.php:82
+#: ../childit-addons/widgets/page-gallery-full.php:91
+#: ../childit-addons/widgets/page-gallery.php:91
+#: ../childit-addons/widgets/programs-page.php:94
+#: ../childit-addons/widgets/programs.php:117
+#: ../childit-addons/widgets/staffs.php:83
+#: ../childit-addons/widgets/testimonials.php:78
+msgid "ID"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:87
+#: ../childit-addons/widgets/centre-information.php:313
+#: ../childit-addons/widgets/gallery.php:83
+#: ../childit-addons/widgets/page-gallery-full.php:92
+#: ../childit-addons/widgets/page-gallery.php:92
+#: ../childit-addons/widgets/programs-page.php:95
+#: ../childit-addons/widgets/programs.php:118
+#: ../childit-addons/widgets/staffs.php:84
+#: ../childit-addons/widgets/testimonials.php:79
+msgid "Author"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:89
+#: ../childit-addons/widgets/centre-information.php:315
+#: ../childit-addons/widgets/gallery.php:85
+#: ../childit-addons/widgets/page-gallery-full.php:94
+#: ../childit-addons/widgets/page-gallery.php:94
+#: ../childit-addons/widgets/programs-page.php:97
+#: ../childit-addons/widgets/programs.php:120
+#: ../childit-addons/widgets/staffs.php:86
+#: ../childit-addons/widgets/testimonials.php:81
+msgid "Modified"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:90
+#: ../childit-addons/widgets/centre-information.php:316
+#: ../childit-addons/widgets/gallery.php:86
+#: ../childit-addons/widgets/page-gallery-full.php:95
+#: ../childit-addons/widgets/page-gallery.php:95
+#: ../childit-addons/widgets/programs-page.php:98
+#: ../childit-addons/widgets/programs.php:121
+#: ../childit-addons/widgets/staffs.php:87
+#: ../childit-addons/widgets/testimonials.php:82
+msgid "Random"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:91
+#: ../childit-addons/widgets/centre-information.php:317
+#: ../childit-addons/widgets/gallery.php:87
+#: ../childit-addons/widgets/page-gallery-full.php:96
+#: ../childit-addons/widgets/page-gallery.php:96
+#: ../childit-addons/widgets/programs-page.php:99
+#: ../childit-addons/widgets/programs.php:122
+#: ../childit-addons/widgets/staffs.php:88
+#: ../childit-addons/widgets/testimonials.php:83
+msgid "Comment count"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:92
+#: ../childit-addons/widgets/centre-information.php:318
+#: ../childit-addons/widgets/gallery.php:88
+#: ../childit-addons/widgets/page-gallery-full.php:97
+#: ../childit-addons/widgets/page-gallery.php:97
+#: ../childit-addons/widgets/programs-page.php:100
+#: ../childit-addons/widgets/programs.php:123
+#: ../childit-addons/widgets/staffs.php:89
+#: ../childit-addons/widgets/testimonials.php:84
+msgid "Menu order"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:99
+#: ../childit-addons/widgets/centre-information.php:325
+#: ../childit-addons/widgets/gallery.php:95
+#: ../childit-addons/widgets/page-gallery-full.php:104
+#: ../childit-addons/widgets/page-gallery.php:104
+#: ../childit-addons/widgets/programs-page.php:107
+#: ../childit-addons/widgets/programs.php:130
+#: ../childit-addons/widgets/staffs.php:96
+#: ../childit-addons/widgets/testimonials.php:91
+msgid "Order"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:103
+#: ../childit-addons/widgets/centre-information.php:329
+#: ../childit-addons/widgets/gallery.php:99
+#: ../childit-addons/widgets/page-gallery-full.php:108
+#: ../childit-addons/widgets/page-gallery.php:108
+#: ../childit-addons/widgets/programs-page.php:111
+#: ../childit-addons/widgets/programs.php:134
+#: ../childit-addons/widgets/staffs.php:100
+#: ../childit-addons/widgets/testimonials.php:95
+msgid "DESC"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:104
+#: ../childit-addons/widgets/centre-information.php:330
+#: ../childit-addons/widgets/gallery.php:100
+#: ../childit-addons/widgets/page-gallery-full.php:109
+#: ../childit-addons/widgets/page-gallery.php:109
+#: ../childit-addons/widgets/programs-page.php:112
+#: ../childit-addons/widgets/programs.php:135
+#: ../childit-addons/widgets/staffs.php:101
+#: ../childit-addons/widgets/testimonials.php:96
+msgid "ASC"
+msgstr ""
+
+#: ../childit-addons/widgets/blogs.php:172
+msgid "by"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:19
+#: ../childit-addons/widgets/centre-information.php:67
+msgid "Centre Information"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:58
+msgid "Want to know more about us?"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:75
+#: ../childit-addons/widgets/centre-information.php:374
+msgid "Our Philosophy"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:83
+msgid ""
+"We believe children learn by building on the knowledge they already have – "
+"primarily exhibited through play. Teachers help children learn by creating a "
+"rich environment to explore via exciting educational activities."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:89
+#: ../childit-addons/widgets/learning.php:120
+#: ../childit-addons/widgets/main-slider.php:145
+msgid "Title one"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:109
+msgid "Image of the child"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:110
+msgid ""
+"Teachers can then shape and build on that knowledge by discovering what "
+"children already know through observation, one-on-one conversation, "
+"clarification, and invitation to explore the world around them."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:113
+msgid "Positive Discipline"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:114
+msgid ""
+"Spanking or other methods of corporal punishment are never to be used as a "
+"means of disciplining students. This no spanking policy extends to parents "
+"with their own children while at school or school sponsored events."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:117
+msgid "Environment is important"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:118
+msgid ""
+"We like to work and play in attractive surroundings so our buildings are "
+"clean, relatively tidy, and pleasing to the eye. The outdoor environments "
+"are large, have colourful and interesting gardens, and a variety of "
+"activities."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:128
+#: ../childit-addons/widgets/centre-information.php:375
+msgid "Our Values"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:144
+#: ../childit-addons/widgets/centre-information.php:193
+msgid "Heading"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:146
+msgid ""
+"Positive, Safe Environment – We are committed to providing an uplifting and "
+"positive atmosphere for our children and staff; a fun learning experience in "
+"a secure, safe, and loving environment."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:187
+#: ../childit-addons/widgets/centre-information.php:376
+msgid "Our Teachers"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:196
+msgid ""
+"We have a focus on recruiting and retaining quality teachers and offer "
+"competitive remuneration, good student discipline and relatively small class "
+"sizes"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:213
+msgid "Name"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:221
+#: ../meta-box/post-meta.php:138
+msgid "Designation"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:236
+msgid "Facebook URL"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:244
+msgid "Twitter URL"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:252
+msgid "Instagram URL"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:265
+msgid "Lindsay"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:266
+#: ../childit-addons/widgets/centre-information.php:271
+msgid "Infant Classroom"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:267
+#: ../childit-addons/widgets/centre-information.php:272
+msgid ""
+"She has never tired of the “ah-ha” moments and the pride that swells in a "
+"little one who is learning to do something for the first time."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:270
+msgid "Kate"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:275
+msgid "Maria"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:276
+msgid "Lead Teacher"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:277
+msgid ""
+"Maria has a Masters degree in Early Childhood Education, a Montessori "
+"certification for children ages 3-6."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:286
+#: ../childit-addons/widgets/centre-information.php:377
+msgid "Parents Say"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:294
+#: ../childit-addons/widgets/testimonials.php:60
+msgid ""
+"If you have feedback or words of praise that you would like to share, please "
+"submit your review at the bottom of this page."
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:300
+#: ../childit-addons/widgets/testimonials.php:66
+msgid "Number of Testimonials"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:337
+msgid "View More"
+msgstr ""
+
+#: ../childit-addons/widgets/centre-information.php:547
+#: ../childit-addons/widgets/faq.php:214
+msgid "view more"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:16
+msgid "Contacts"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:31
+msgid "Map"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:36
+msgid "Iatitude"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:43
+msgid "Longitudes"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:50
+msgid "Zoom"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:59
+msgid "Form"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:67
+msgid "Get In Touch"
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:75
+msgid ""
+"Each year, we have many fun ChildIt Family events scheduled simultaneously "
+"in all of our centres. In addition, each ChildIt location has its own unique "
+"events."
+msgstr ""
+
+#: ../childit-addons/widgets/contacts.php:81
+msgid "CF7 shortcode"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:18
+msgid "Count"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:33
+#: ../childit-addons/widgets/foods-2.php:36
+#: ../childit-addons/widgets/foods.php:36
+#: ../childit-addons/widgets/gallery.php:40
+#: ../childit-addons/widgets/pricing-packages.php:49
+#: ../childit-addons/widgets/pricing-packages.php:73
+#: ../childit-addons/widgets/programs.php:50
+#: ../childit-addons/widgets/programs.php:56
+#: ../childit-addons/widgets/video-section.php:36
+#: ../childit-addons/widgets/video-section.php:42
+#: ../childit-addons/widgets/vision-mission.php:48
+msgid "BG Image"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:58
+msgid "Count Number"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:65
+msgid "Count Text"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:79
+msgid "Years of experience"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:83
+msgid "Students Enrolled"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:87
+msgid "Qualified Teachers"
+msgstr ""
+
+#: ../childit-addons/widgets/count.php:91
+msgid "Total Groups"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:18
+msgid "Faq"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:60
+msgid "FAQ List"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:68
+msgid "Question"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:76
+msgid "Answere"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:89
+msgid "What are the Qualifications of Teachers?"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:90
+msgid ""
+"All of our head teachers have a Masters in Early Childhood Education and are "
+"certified in Early Childhood Education. Head teachers in the infant / "
+"toddler rooms may have a degree in Early Childhood Education or in a "
+"different field such as Elementary Educaiton, Psychology, English, Theater)."
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:93
+msgid "How can I get involved in my classroom?"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:94
+msgid ""
+"Wait a bit before volunteering at lunch or recess to let your child adjust. "
+"Once the school year is underway, there are plenty of opportunities to get "
+"involved, from helping students at events and going on class field trips. "
+"Several kindergarten family events are scheduled on evenings throughout the "
+"year."
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:103
+#: ../childit-addons/widgets/testimonials.php:105
+msgid "Form Section"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:112
+msgid "Do You Have Any Question?"
+msgstr ""
+
+#: ../childit-addons/widgets/faq.php:118
+#: ../childit-addons/widgets/testimonials.php:120
+msgid "CF7 Shortcode"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:21
+msgid "Foods 2"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:66
+#: ../childit-addons/widgets/foods.php:66
+msgid "Children need healthy, wholesome foods"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:75
+#: ../childit-addons/widgets/foods.php:75
+msgid "<span>Healthy</span> Food for Growing Children"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:83
+#: ../childit-addons/widgets/foods.php:83
+msgid ""
+"By eating family-style and serving themselves, children learn about making "
+"healthy choices and the connection between food and community."
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:113
+#: ../childit-addons/widgets/foods.php:113
+msgid "Fruits"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:116
+#: ../childit-addons/widgets/foods.php:116
+msgid "Vegetables"
+msgstr ""
+
+#: ../childit-addons/widgets/foods-2.php:119
+#: ../childit-addons/widgets/foods.php:119
+msgid "Grains"
+msgstr ""
+
+#: ../childit-addons/widgets/foods.php:21
+msgid "Foods"
+msgstr ""
+
+#: ../childit-addons/widgets/gallery.php:20
+#: ../childit-addons/widgets/gallery.php:35 ../post-type/gallery.php:21
+msgid "Gallery"
+msgstr ""
+
+#: ../childit-addons/widgets/gallery.php:55
+msgid "Checkout our Instagram feed"
+msgstr ""
+
+#: ../childit-addons/widgets/gallery.php:63
+msgid "#ChildiT</span> Centre Photo Gallery"
+msgstr ""
+
+#: ../childit-addons/widgets/gallery.php:69
+#: ../childit-addons/widgets/page-gallery-full.php:78
+#: ../childit-addons/widgets/page-gallery.php:78
+msgid "Number of Gallery"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:19
+msgid "Guidance"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:43
+msgid "Understanding children’s behavior"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:52
+msgid "Behavior Guidance"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:58
+msgid "Paragraph"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:60
+msgid ""
+"Positive and consistent techniques should be used to encourage children "
+"whose play actions are both appropriate and inappropriate."
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:66
+msgid "Content Left"
+msgstr ""
+
+#: ../childit-addons/widgets/guidance-section.php:73
+msgid "Content Right"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:19
+msgid "Learning"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:49
+msgid "Left Content"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:58
+msgid "We provide the main activities"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:67
+msgid "<span>Elements</span> of Learning. Committed to Excellence"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:75
+msgid ""
+"Our curriculum is based on the research of the most renowned education "
+"experts"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:103
+msgid "Right Section"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:128
+#: ../childit-addons/widgets/main-slider.php:154
+msgid "Title two"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:141
+msgid "Gardening"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:142
+msgid ""
+"The Toddler and Preschool Groups have a garden in their outdoor space. Each "
+"spring, the children and teachers contribute and create beautiful and "
+"educational container/raised bed gardens."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:145
+msgid "Sport"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:146
+msgid ""
+"Children need to develop large motor and small motor skills and "
+"cardiovascular endurance. Extensive physical activity is also needed to "
+"address a growing problem of obesity in American children."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:149
+msgid "Art"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:150
+msgid ""
+"Kids will love designing and creating puppets and collages, constructing "
+"musical instruments and flower bouquets, and painting, gluing, and crafting "
+"to their hearts’ content!"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:153
+msgid "Excursions"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:154
+msgid ""
+"Excursions form a vital part of a child’s early education. They expose a "
+"child to a range of different experiences and enable them to gain a sense of "
+"the world in which they find themselves."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:157
+msgid "Outdoor"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:158
+msgid ""
+"Our children benefit from a variety of outdoor play spaces. In addition to "
+"our playground, they experience the natural wonders of the forest, the big "
+"field, our raised gardens and nature walks."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:161
+msgid "Math"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:162
+msgid ""
+"A preschool math curriculum should be taught using preschool lessons "
+"including interactive activities, learning games, printable worksheets, "
+"assessments, and reinforcement."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:165
+msgid "Literacy"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:166
+msgid ""
+"A systematic and integrated literacy program promote language development "
+"preschool children. The program uses systematic, direct instruction built "
+"around a series of weekly books in the classroom."
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:221
+msgid "Curriculum"
+msgstr ""
+
+#: ../childit-addons/widgets/learning.php:221
+msgid "Elements"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:46
+msgid "Main Slider"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:114
+msgid "Slider image"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:124
+msgid "Show Mask"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:135
+msgid "Slider Icon image"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:148
+#: ../childit-addons/widgets/main-slider.php:169
+msgid "Looking for a Centre where"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:157
+#: ../childit-addons/widgets/main-slider.php:170
+msgid "<span>Your Child</span><br>Will Be Safe?"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:164
+msgid "Slider List"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:173
+msgid "Where Fun Happens!"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:174
+msgid "<span>Educating</span><br>Your Children"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:185
+msgid "Slider Settings"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:191
+msgid "Dots"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:199
+msgid "Autoplay"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:207
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:216
+msgid "Fading"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:224
+msgid "Speed"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:237
+msgid "Style"
+msgstr ""
+
+#: ../childit-addons/widgets/main-slider.php:325
+#: ../childit-addons/widgets/main-slider.php:332
+msgid "img"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:19
+msgid "Gallery Full Width"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:34
+#: ../childit-addons/widgets/page-gallery.php:34
+msgid "Page Gallery"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:40
+#: ../childit-addons/widgets/page-gallery.php:40
+msgid "Gallery Width"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:44
+#: ../childit-addons/widgets/page-gallery.php:44
+msgid "Boxed"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:55
+#: ../childit-addons/widgets/page-gallery.php:55
+msgid "A quick peek at our centre"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:64
+#: ../childit-addons/widgets/page-gallery.php:64
+msgid "ChildiT Centre Photo Gallery"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:72
+#: ../childit-addons/widgets/page-gallery.php:72
+msgid ""
+"We aim to capture the many smiles we see every day, show the many "
+"experiences the children have every day and provide you as the families a "
+"visual experience."
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery-full.php:162
+#: ../childit-addons/widgets/page-gallery.php:162
+msgid "All"
+msgstr ""
+
+#: ../childit-addons/widgets/page-gallery.php:19
+msgid "Page Gallery "
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:19
+msgid "Parent Info"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:43
+msgid "Partnerships with families"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:52
+msgid "Information for Parents"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:60
+msgid ""
+"Established relationships with parents means we can share information "
+"positively and effectively to support children as much as possible."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:99
+msgid "Hours of Operation"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:100
+msgid ""
+"Eligible hours of care are based on parent's working hours plus one half "
+"hour for picking up of your child. For example: If your working or school "
+"hours are 9:00am-4:30pm then your eligible hours of care are 8:30am-5:00pm."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:103
+#: ../childit-addons/widgets/parent-info.php:107
+msgid "Medical Information"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:104
+msgid ""
+"Open communication between parents and staff is strongly encouraged. "
+"Teachers are encouraged to learn what is important to you as a parent and to "
+"use that information when programming for the group."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:108
+msgid ""
+"We are required under the Child Care and Early Years Act to have a copy of "
+"each child's immunization record or a statement of religious or "
+"conscientious objection to immunization."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:111
+msgid "Injuries"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:112
+msgid ""
+"If your child is injured while at the centre, staff will administer basic "
+"first aid. If medical attention is required, attempts will be made to reach "
+"the parents immediately. Staff will call Emergency Services if required."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:115
+msgid "Clothing"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:116
+msgid ""
+"Exploration often requires getting messagey! All of the materials that we "
+"use are washable however, we are aware that some paint colours and other "
+"materials are difficult to fully remove."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:119
+msgid "Nutrition"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:120
+msgid ""
+"Children are encouraged to taste a variety of foods but no child is ever "
+"forced to eat foods that they do not wish to. All parts of the meal make up "
+"a child's nutritional requirement; therefore no food will be withheld."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:131
+#: ../childit-addons/widgets/parent-resources.php:19
+msgid "Parent Resource"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:140
+#: ../childit-addons/widgets/parent-resources.php:42
+msgid "Parent Resources"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:148
+#: ../childit-addons/widgets/parent-resources.php:50
+msgid ""
+"The Parent Handbook provides new parents with an understanding of the "
+"mission, philosophy, policies, and procedures followed at our centre."
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:174
+#: ../childit-addons/widgets/parent-resources.php:75
+msgid "Download URL"
+msgstr ""
+
+#: ../childit-addons/widgets/parent-info.php:287
+#: ../childit-addons/widgets/parent-resources.php:139
+msgid "download"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:18
+#: ../childit-addons/widgets/pricing-packages.php:95
+msgid "Pricing Packages"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:86
+msgid "Choose your plan"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:104
+msgid ""
+"The pricing plans listed below fully reflect the variety of our learning "
+"programs and all included activities. If you would like to find out more "
+"about any of these plans, contact our managers."
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:128
+msgid "Price"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:130
+msgid ""
+"<span class=\"currency\">$</span><span class=\"price\">990</span> /month"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:136
+msgid "Include"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:145
+msgid "order now"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:151
+msgid "Button URL"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:168
+msgid "Start Plan"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:171
+msgid "Standard"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-packages.php:174
+msgid "Premium"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:18
+msgid "Pricing Table"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:33
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:42
+msgid "Which fee will you pay?"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:50
+msgid "Pricing & Fees"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:58
+msgid ""
+"Fees are payable for 52 weeks, fees will not be refunded for any periods of "
+"sickness, holidays or days absent from the preschool."
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:64
+msgid "Note Text"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:67
+msgid ""
+"* The preschool reserves the right to increase the said fees at any time."
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:75
+msgid "Table"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:82
+msgid "Table List"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:102
+msgid "Terms & Conditions"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:108
+msgid "Condition Title"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:111
+msgid "Fee Terms & Conditions"
+msgstr ""
+
+#: ../childit-addons/widgets/pricing-tables.php:117
+msgid "Condition List"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:19
+msgid "Programs Page"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:58
+#: ../childit-addons/widgets/programs.php:81
+msgid "We are dedicated to the care and education"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:66
+#: ../childit-addons/widgets/programs.php:90
+msgid "Our Educational Programs"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:74
+#: ../childit-addons/widgets/programs.php:98
+msgid ""
+"Our exclusive curricula, combined with our own digital lesson planning tool, "
+"enable teachers to create personalized learning experiences, appropriate to "
+"every age group."
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:121
+msgid "Table Content"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:129
+msgid "Programs and curriculum table"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:137
+msgid "Enrolment Breakdown"
+msgstr ""
+
+#: ../childit-addons/widgets/programs-page.php:257
+#: ../meta-box/post-meta.php:181 ../meta-box/post-meta.php:182
+msgid "Teachers"
+msgstr ""
+
+#: ../childit-addons/widgets/programs.php:20 ../post-type/programs.php:19
+msgid "Programs"
+msgstr ""
+
+#: ../childit-addons/widgets/programs.php:145
+msgid "book a tour"
+msgstr ""
+
+#: ../childit-addons/widgets/programs.php:151 ../meta-box/post-meta.php:101
+msgid "Link"
+msgstr ""
+
+#: ../childit-addons/widgets/staffs.php:19
+#: ../childit-addons/widgets/staffs.php:38 ../post-type/staffs.php:19
+msgid "Staffs"
+msgstr ""
+
+#: ../childit-addons/widgets/staffs.php:47
+msgid "Get to know our staff"
+msgstr ""
+
+#: ../childit-addons/widgets/staffs.php:56
+msgid "Dedicated Teachers & Staff"
+msgstr ""
+
+#: ../childit-addons/widgets/staffs.php:64
+msgid ""
+"Our staff are dedicated to enhancing the lives of children with diverse "
+"special needs by providing evaluations and other services for children to "
+"achieve full and independent lives."
+msgstr ""
+
+#: ../childit-addons/widgets/testimonials.php:19
+#: ../post-type/testimonials.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: ../childit-addons/widgets/testimonials.php:43
+msgid "We love to hear from our parents!"
+msgstr ""
+
+#: ../childit-addons/widgets/testimonials.php:52
+msgid "Comments From Parents"
+msgstr ""
+
+#: ../childit-addons/widgets/testimonials.php:114
+msgid "Want to Leave Your Review?"
+msgstr ""
+
+#: ../childit-addons/widgets/video-section.php:21
+msgid "Video Section"
+msgstr ""
+
+#: ../childit-addons/widgets/video-section.php:65
+msgid ""
+"We Create a Nurturing Environment <span class=\"main-color-font dib\">for "
+"Each Child</span>"
+msgstr ""
+
+#: ../childit-addons/widgets/video-section.php:73
+msgid ""
+"Thought open ended play based experiences children flourish, and grow to "
+"love their school, taking pride in belonging to a community"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:18
+msgid "Vision & Mission"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:74
+msgid "What is special about centre"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:83
+msgid "Vision & Mission Statements"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:122
+msgid "Our Mission"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:123
+msgid ""
+"We believe in the ability to improve the quality of life of the individuals "
+"and families across the city."
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:126
+msgid "Our Vision"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:127
+msgid ""
+"Our vision for Early Years is based upon the premise that every child "
+"receives the very best education."
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:130
+msgid "Philosophy"
+msgstr ""
+
+#: ../childit-addons/widgets/vision-mission.php:131
+msgid ""
+"We believe that a teacher-guided, balanced approach establishes an excellent "
+"educational foundation."
+msgstr ""
+
+#: ../meta-box/page-meta.php:17 ../meta-box/post-meta.php:17
+msgid "Default Widget"
+msgstr ""
+
+#: ../meta-box/page-meta.php:39
+msgid "Page Design Settings"
+msgstr ""
+
+#: ../meta-box/page-meta.php:48
+msgid "Show Page Titlebar"
+msgstr ""
+
+#: ../meta-box/page-meta.php:56
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../meta-box/post-meta.php:34 ../meta-box/post-meta.php:52
+#: ../meta-box/post-meta.php:72 ../meta-box/post-meta.php:92
+#: ../meta-box/post-meta.php:110
+msgid "Post Format Data"
+msgstr ""
+
+#: ../meta-box/post-meta.php:43
+msgid "Quote Text"
+msgstr ""
+
+#: ../meta-box/post-meta.php:44
+msgid "Insert Quote Text."
+msgstr ""
+
+#: ../meta-box/post-meta.php:61
+msgid "Video Markup"
+msgstr ""
+
+#: ../meta-box/post-meta.php:62 ../meta-box/post-meta.php:82
+msgid "Put embed src of video. i.e. youtube, vimeo"
+msgstr ""
+
+#: ../meta-box/post-meta.php:81
+msgid "Audio Markup"
+msgstr ""
+
+#: ../meta-box/post-meta.php:102
+msgid "Works with link post format."
+msgstr ""
+
+#: ../meta-box/post-meta.php:119 ../meta-box/post-meta.php:187
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: ../meta-box/post-meta.php:129 ../meta-box/post-meta.php:197
+msgid "Design Settings"
+msgstr ""
+
+#: ../meta-box/post-meta.php:143
+msgid "Facebook"
+msgstr ""
+
+#: ../meta-box/post-meta.php:148
+msgid "Twitter"
+msgstr ""
+
+#: ../meta-box/post-meta.php:153
+msgid "Instagram"
+msgstr ""
+
+#: ../meta-box/post-meta.php:161
+msgid "Custom Post Data"
+msgstr ""
+
+#: ../meta-box/post-meta.php:170 ../meta-box/post-meta.php:175
+#: ../meta-box/post-meta.php:176
+msgid "Education Age"
+msgstr ""
+
+#: ../meta-box/post-meta.php:206
+msgid "Event Image"
+msgstr ""
+
+#: ../post-type/gallery.php:18
+msgctxt "Post Type General Name"
+msgid "Galleries"
+msgstr ""
+
+#: ../post-type/gallery.php:19
+msgctxt "Post Type Singular Name"
+msgid "Gallery"
+msgstr ""
+
+#: ../post-type/gallery.php:20
+msgid "Galleries"
+msgstr ""
+
+#: ../post-type/gallery.php:22 ../post-type/programs.php:21
+#: ../post-type/staffs.php:21 ../post-type/testimonials.php:20
+msgid "Item Archives"
+msgstr ""
+
+#: ../post-type/gallery.php:23 ../post-type/programs.php:22
+#: ../post-type/staffs.php:22 ../post-type/testimonials.php:21
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post-type/gallery.php:24
+msgid "All Galleries"
+msgstr ""
+
+#: ../post-type/gallery.php:25 ../post-type/gallery.php:26
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../post-type/gallery.php:27
+msgid "New Gallery Item"
+msgstr ""
+
+#: ../post-type/gallery.php:28
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: ../post-type/gallery.php:29
+msgid "Update Gallery Item"
+msgstr ""
+
+#: ../post-type/gallery.php:30
+msgid "View Gallery Item"
+msgstr ""
+
+#: ../post-type/gallery.php:31 ../post-type/programs.php:30
+#: ../post-type/staffs.php:30 ../post-type/testimonials.php:29
+msgid "Search Item"
+msgstr ""
+
+#: ../post-type/gallery.php:32 ../post-type/programs.php:31
+#: ../post-type/staffs.php:31 ../post-type/testimonials.php:30
+msgid "Not found"
+msgstr ""
+
+#: ../post-type/gallery.php:33 ../post-type/programs.php:32
+#: ../post-type/staffs.php:32 ../post-type/testimonials.php:31
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post-type/gallery.php:34 ../post-type/programs.php:33
+#: ../post-type/staffs.php:33 ../post-type/testimonials.php:32
+msgid "Featured Image"
+msgstr ""
+
+#: ../post-type/gallery.php:35 ../post-type/programs.php:34
+#: ../post-type/staffs.php:34 ../post-type/testimonials.php:33
+msgid "Set featured image"
+msgstr ""
+
+#: ../post-type/gallery.php:36 ../post-type/programs.php:35
+#: ../post-type/staffs.php:35 ../post-type/testimonials.php:34
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post-type/gallery.php:37 ../post-type/programs.php:36
+#: ../post-type/staffs.php:36 ../post-type/testimonials.php:35
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post-type/gallery.php:38 ../post-type/programs.php:37
+#: ../post-type/staffs.php:37 ../post-type/testimonials.php:36
+msgid "Insert into item"
+msgstr ""
+
+#: ../post-type/gallery.php:39 ../post-type/programs.php:38
+#: ../post-type/staffs.php:38 ../post-type/testimonials.php:37
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../post-type/gallery.php:40 ../post-type/programs.php:39
+#: ../post-type/staffs.php:39 ../post-type/testimonials.php:38
+msgid "Items list"
+msgstr ""
+
+#: ../post-type/gallery.php:41 ../post-type/programs.php:40
+#: ../post-type/staffs.php:40 ../post-type/testimonials.php:39
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post-type/gallery.php:42 ../post-type/programs.php:41
+#: ../post-type/staffs.php:41 ../post-type/testimonials.php:40
+msgid "Filter items list"
+msgstr ""
+
+#: ../post-type/gallery.php:47 ../post-type/programs.php:46
+#: ../post-type/staffs.php:46 ../post-type/testimonials.php:45
+msgid "Description."
+msgstr ""
+
+#: ../post-type/gallery.php:73
+msgctxt "childit-core"
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../post-type/gallery.php:74
+msgctxt "childit-core"
+msgid "Category"
+msgstr ""
+
+#: ../post-type/gallery.php:75 ../post-type/staffs.php:70
+msgid "Search Categories"
+msgstr ""
+
+#: ../post-type/gallery.php:76 ../post-type/staffs.php:71
+msgid "All Categories"
+msgstr ""
+
+#: ../post-type/gallery.php:77 ../post-type/staffs.php:72
+msgid "Parent Category"
+msgstr ""
+
+#: ../post-type/gallery.php:78 ../post-type/staffs.php:73
+msgid "Parent Category:"
+msgstr ""
+
+#: ../post-type/gallery.php:79 ../post-type/staffs.php:74
+msgid "Edit Category"
+msgstr ""
+
+#: ../post-type/gallery.php:80 ../post-type/staffs.php:75
+msgid "Update Category"
+msgstr ""
+
+#: ../post-type/gallery.php:81 ../post-type/staffs.php:76
+msgid "Add New Category"
+msgstr ""
+
+#: ../post-type/gallery.php:82 ../post-type/staffs.php:77
+msgid "New Category Name"
+msgstr ""
+
+#: ../post-type/gallery.php:83
+msgid "Gallery  Categories"
+msgstr ""
+
+#: ../post-type/programs.php:17
+msgctxt "Post Type General Name"
+msgid "Programs"
+msgstr ""
+
+#: ../post-type/programs.php:18
+msgctxt "Post Type Singular Name"
+msgid "Program"
+msgstr ""
+
+#: ../post-type/programs.php:20
+msgid "Program"
+msgstr ""
+
+#: ../post-type/programs.php:23
+msgid "All Programs"
+msgstr ""
+
+#: ../post-type/programs.php:24 ../post-type/programs.php:25
+msgid "Add New Program"
+msgstr ""
+
+#: ../post-type/programs.php:26
+msgid "New Program Item"
+msgstr ""
+
+#: ../post-type/programs.php:27
+msgid "Edit Program Item"
+msgstr ""
+
+#: ../post-type/programs.php:28
+msgid "Update Program Item"
+msgstr ""
+
+#: ../post-type/programs.php:29
+msgid "View Program Item"
+msgstr ""
+
+#: ../post-type/staffs.php:17
+msgctxt "Post Type General Name"
+msgid "Teachers & Staff"
+msgstr ""
+
+#: ../post-type/staffs.php:18
+msgctxt "Post Type Singular Name"
+msgid "Staff"
+msgstr ""
+
+#: ../post-type/staffs.php:20
+msgid "Staff"
+msgstr ""
+
+#: ../post-type/staffs.php:23
+msgid "All Staffs"
+msgstr ""
+
+#: ../post-type/staffs.php:24 ../post-type/staffs.php:25
+msgid "Add New Staff"
+msgstr ""
+
+#: ../post-type/staffs.php:26
+msgid "New Staff Item"
+msgstr ""
+
+#: ../post-type/staffs.php:27
+msgid "Edit Staff Item"
+msgstr ""
+
+#: ../post-type/staffs.php:28
+msgid "Update Staff Item"
+msgstr ""
+
+#: ../post-type/staffs.php:29
+msgid "View Staff Item"
+msgstr ""
+
+#: ../post-type/staffs.php:68
+msgctxt "childit-core"
+msgid "Staff Categories"
+msgstr ""
+
+#: ../post-type/staffs.php:69
+msgctxt "childit-core"
+msgid "Staff Category"
+msgstr ""
+
+#: ../post-type/staffs.php:78
+msgid "Staff Categories"
+msgstr ""
+
+#: ../post-type/testimonials.php:16
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../post-type/testimonials.php:17
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../post-type/testimonials.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: ../post-type/testimonials.php:22
+msgid "All Testimonials"
+msgstr ""
+
+#: ../post-type/testimonials.php:23 ../post-type/testimonials.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../post-type/testimonials.php:25
+msgid "New Testimonial Item"
+msgstr ""
+
+#: ../post-type/testimonials.php:26
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: ../post-type/testimonials.php:27
+msgid "Update Testimonial Item"
+msgstr ""
+
+#: ../post-type/testimonials.php:28
+msgid "View Testimonial Item"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:15
+msgid "Our Contacts"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:23
+msgid "Childit Contact Box"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:25
+msgid "Footer Contact Box."
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:46
+#: ../widgets/childit-sidebar-recent-post-widget.php:33
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:51
+msgid "Address"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:56
+msgid "Phone"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:61
+msgid "Email"
+msgstr ""
+
+#: ../widgets/childit-footer-contact-widget.php:66
+msgid "Hours"
+msgstr ""
+
+#: ../widgets/childit-sidebar-recent-post-widget.php:14
+msgid "Recent Post"
+msgstr ""
+
+#: ../widgets/childit-sidebar-recent-post-widget.php:17
+msgid "Childit Sidebar Recent Posts"
+msgstr ""
+
+#: ../widgets/childit-sidebar-recent-post-widget.php:37
+msgid "Number of posts:"
+msgstr ""

@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: childit were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10343
+Data file = /Users/oo/Local Sites/childit/app/public/wp-content/plugins/childit-demo-installer/demo-data/demo1/content.xml
+Widget file = /Users/oo/Local Sites/childit/app/public/wp-content/plugins/childit-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /Users/oo/Local Sites/childit/app/public/wp-content/plugins/childit-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+childit_options -> /Users/oo/Local Sites/childit/app/public/wp-content/plugins/childit-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Childit Sidebar Recent Posts - Recent Post - Imported
+Archives - No Title - Imported
+Childit Contact Box - Our Contacts - Imported
+
+Footer Sidebar 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Custom HTML - Quick Links - Imported
+
+Footer Sidebar 3 : 
+
+Childit Contact Box - Our Contacts - Imported
+
+header_contact_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Childit Contact Box - Our Contacts - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: childit_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
